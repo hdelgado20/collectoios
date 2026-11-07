@@ -1,0 +1,5 @@
+node_modules/
+ios/
+*.p12
+*.mobileprovision
+*.p8
