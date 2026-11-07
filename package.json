@@ -1,0 +1,10 @@
+{
+  "name": "collectoholic-ios",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@capacitor/core": "latest",
+    "@capacitor/cli": "latest",
+    "@capacitor/ios": "latest"
+  }
+}

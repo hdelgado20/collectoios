@@ -1,0 +1,9 @@
+{
+  "appId": "org.collectoholic.museo",
+  "appName": "Collectoholic",
+  "webDir": "www",
+  "server": {
+    "url": "https://collectoholic.neocities.org/",
+    "cleartext": false
+  }
+}
